@@ -1,0 +1,8 @@
+{
+  "name": "Air Quality Monitor",
+  "description": "An application to measure and display local air quality information using your location and the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
